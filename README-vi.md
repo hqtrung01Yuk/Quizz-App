@@ -117,3 +117,11 @@ Tất cả các endpoint đều có trong Swagger để bạn kiểm thử trự
 dotnet build         # Biên dịch dự án
 dotnet watch run     # Chạy và tự động reload khi có thay đổi
 ```
+
+## Sơ đồ luồng người dùng
+
+![User-flow](./asset/user-flow-diagram.jpg)
+
+## Sơ đồ quan hệ thực thể
+
+![ERD](./asset/entity-relationship-diagram.jpg)

@@ -108,3 +108,11 @@ All endpoints are documented in Swagger for testing.
 dotnet build         # Build the project
 dotnet watch run     # Run with hot reload
 ```
+
+## User flow diagram
+
+![User-flow](./asset/user-flow-diagram.jpg)
+
+## Entity relationship diagram
+
+![ERD](./asset/entity-relationship-diagram.jpg)
